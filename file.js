@@ -1,1 +1,2 @@
-console.log("test2");
+console.log("final version of the test");
+console.log("merging it now!");
